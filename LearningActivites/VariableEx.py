@@ -5,3 +5,7 @@ print(message_string)
 #Greeting
 message_greeting = "Hello There"
 print(message_greeting)
+
+#Farewell 
+message_farewell = "Goodbye!"
+print(message_farewell)

@@ -1,4 +1,4 @@
-print("NNNNNNN                                        PPPPPPPPPPPPPPPPPPPPPPPP")
+print("NNNNNNN                           NNNN         PPPPPPPPPPPPPPPPPPPPPPPP")
 print("NNNN   NNNN                       NNNN         PPPPPPPPPPPPPPPPPPPPPPPPP")
 print("NNNN     NNNN                     NNNN         PPPP                   PPPP")
 print("NNNN       NNNN                   NNNN         PPPP                    PPPP")

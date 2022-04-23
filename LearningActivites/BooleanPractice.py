@@ -8,4 +8,4 @@ print(type(my_bool))
 my_bool_two = False
 
 #Checks the type of my_bool_two
-print(type(my_bool_two))
+print(type(my_bool_two)) 

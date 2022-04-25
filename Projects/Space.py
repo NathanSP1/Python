@@ -24,5 +24,6 @@ elif planet == 6:
 
 print(planet)
 print(weight)
+
 print("Planet chosen: ", planet)
 print("Your weight on the planet is:", weight)
